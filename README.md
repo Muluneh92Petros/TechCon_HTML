@@ -48,4 +48,4 @@ Throughout this project, you’ll gain practical experience with the following H
 To get started with the project, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/TechCon-2024-Website.git
+git clone [https://github.com/yourusername/TechCon-2024-Website.git](https://github.com/Muluneh92Petros/TechCon_HTML.git)
